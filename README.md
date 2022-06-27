@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SyahdanAzizITNS
+- 👀 I’m interested in ... Automation Script
+- 🌱 I’m currently learning ... Data Science
+- 📫 How to reach me ... +62 858-8577-0540 WhatsApp
