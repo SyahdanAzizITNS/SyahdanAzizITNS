@@ -32,10 +32,16 @@ I am an **IT Network & Systems Professional** focused on Automation, Infrastruct
 
 ### 🏆 Verified Certifications
 <p align="left">
-  <a href="https://www.credly.com/users/syahdan-aziz/badges" target="_blank">
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f4018406-7248-4c40-8327-48ca8629984b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/f4018406-7248-4c40-8327-48ca8629984b/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/6843d3fb-3e3c-4977-8321-432a93796d99/CS-Entry-Level-Cybersecurity-V1.2.png" width="120" height="120" alt="Cybersecurity Certification" />
   </a>
   </p>
+
+<p>
+  <a href="https://www.credly.com/users/syahdan-aziz/badges" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_Badges-Credly-orange?style=flat-square&logo=credly&logoColor=white" />
+  </a>
+</p>
 
 ---
 
