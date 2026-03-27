@@ -32,8 +32,8 @@ I am an **IT Network & Systems Professional** focused on Automation, Infrastruct
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyahdanAzizITNS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyahdanAzizITNS&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyahdanAzizITNS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Syahdan GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyahdanAzizITNS&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
