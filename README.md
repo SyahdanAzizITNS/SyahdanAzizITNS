@@ -30,11 +30,12 @@ I am an **IT Network & Systems Professional** focused on Automation, Infrastruct
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Verified Certifications
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyahdanAzizITNS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Syahdan GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyahdanAzizITNS&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+  <a href="https://www.credly.com/users/syahdan-aziz/badges" target="_blank">
+    <img src="URL_GAMBAR_BADGE_KAMU_DARI_CREDLY" width="120" height="120" alt="Cisco Certified" />
+  </a>
+  </p>
 
 ---
 
