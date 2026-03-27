@@ -10,7 +10,7 @@
 I am an **IT Network & Systems Professional** focused on Automation, Infrastructure Monitoring, and Security. I build scripts to make network management easier and more efficient.
 
 - 🔭 **Currently working on:** Automation Scripts & Infrastructure Security.
-- 🚀 **Specialties:** Cisco Networking, CUCM, PRTG Monitoring, Python Automation.
+- 🚀 **Specialties:**  Cisco Networking, Debian, Fortigate, Python Automation.
 - ⚡ **Fun fact:** I believe if you have to do it twice, you should automate it.
 
 ---
@@ -41,7 +41,7 @@ I am an **IT Network & Systems Professional** focused on Automation, Infrastruct
 ### 📫 Connect with Me
 - 🌍 **Website:** [SAITNS.COM](https://saitns.com)
 - 💬 **WhatsApp:** [+62 858-8577-0540](https://wa.me/6285885770540)
-- 📧 **Email:** admin@saitns.com
+- 📧 **Email:** syahdanaziz.bisma@gmail.com
 
 ---
 <p align="center">
