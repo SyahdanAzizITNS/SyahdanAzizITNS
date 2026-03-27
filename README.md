@@ -33,7 +33,7 @@ I am an **IT Network & Systems Professional** focused on Automation, Infrastruct
 ### 🏆 Verified Certifications
 <p align="left">
   <a href="https://www.credly.com/users/syahdan-aziz/badges" target="_blank">
-    <img src="URL_GAMBAR_BADGE_KAMU_DARI_CREDLY" width="120" height="120" alt="Cisco Certified" />
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f4018406-7248-4c40-8327-48ca8629984b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   </a>
   </p>
 
